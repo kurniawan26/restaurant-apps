@@ -544,79 +544,21 @@ a.card-title:focus {
   grid-column: 1 / -1;
 }
 
-/* .footer {
+.footer {
   padding: 2rem 0;
   border-top: 1px solid #eee;
-} */
+}
 
-/* .footer-nav {
-  display: flex;
-  align-items: center;
-  gap: 2rem;
-  list-style: none;
-} */
-
-/* .logo-col {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  gap: 1rem;
-} */
-
-/* .footer-logo {
-  display: block;
-  margin-bottom: 2rem;
-  font-size: 4.4rem;
-  font-weight: 600;
-  text-decoration: none;
-  color: #333;
-  transition: all 0.3s;
-} */
-/* 
-.footer-logo:hover,
-.footer-logo:focus {
-  color: #e67e22;
-  transform: scale(1.2);
-} */
-
-/* .social-links {
-  list-style: none;
-  display: flex;
-  gap: 2.4rem;
-} */
-
-/* .social-icon {
-  height: 4.4rem;
-  width: 4.4rem;
-} */
 
 .copyright {
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   line-height: 1.6;
   color: #767676;
   margin-top: auto;
+  text-align: center;
+  padding: 1rem;
 }
 
-/* .footer-link:link,
-.footer-link:visited {
-  text-decoration: none;
-  font-size: 1.6rem;
-  color: #767676;
-  transition: all 0.3s;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 2rem;
-} */
-
-/* .footer-link:hover,
-.footer-link:active,
-.footer-link:focus {
-  background-color: #333;
-  color: #fff;
-  transform: rotate(-9deg);
-} */
 
 /* Review */
 .detail-restaurant__review-list {
