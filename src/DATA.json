@@ -1,0 +1,68 @@
+{
+  "restaurants": [
+    {
+      "id": "6c7bqjgi84kcowlqdz",
+      "name": "Bring Your Phone Cafe",
+      "description": "Ditempat ini tentunya kamu bisa makan dengan mudah, disertai fasilitas wifi yang sangat mumpuni untuk kamu berselancar didunia maya",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/41",
+      "city": "Medan",
+      "rating": 4.6
+    },
+    {
+      "id": "ljx8i0qu2uckcowlqdz",
+      "name": "Run The Gun",
+      "description": "Run the gun maksudnya kamu bisa berkuliner disertai dengan suasana era kolonialisme",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/07",
+      "city": "Bali",
+      "rating": 4.6
+    },
+    {
+      "id": "fe8bbxoazddkcowlqdz",
+      "name": "Pangsit Express",
+      "description": "Dari namanya aja kamu sudah pasti tau ini tempat makan apa? ya benar ini tempat makan mie pangsit yang cepet",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/29",
+      "city": "Ternate",
+      "rating": 4.8
+    },
+    {
+      "id": "ik1zljmlf68kcowlqdz",
+      "name": "Ducky Duck",
+      "description": "Di tempat ini kamu bisa makan bebek dari hasil buruan bebek yang kamu ambil dari rumah tetangga sebelumnya",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/38",
+      "city": "Malang",
+      "rating": 4.7
+    },
+    {
+      "id": "9jpuzkm6n6jkcowlqdz",
+      "name": "Kafein",
+      "description": "Kalo kamu orang yang suka tidur sembarangan, cocok deh kamu mampir ke tempat ini, pasti kamu gak bakal tidur kalo ketempat ini",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/40",
+      "city": "Bali",
+      "rating": 3.8
+    },
+    {
+      "id": "cpl5jpsnuqkkcowlqdz",
+      "name": "Makan mudah",
+      "description": "Kamu bisa makan mudah, cepat dan hemat disini, gak perlu repot repot lagi buat bayar makan, semuanya sudah ditanggung pemerintah",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/08",
+      "city": "Malang",
+      "rating": 4.6
+    },
+    {
+      "id": "iqtf9hmdzvbkcowlqdz",
+      "name": "Saya Suka",
+      "description": "Kamu pasti nemuin makanan yang kamu suka disini, pasti kamu suka, yang gak bakal kamu temuin disini itu cuma kenangan mantan",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/32",
+      "city": "Surabaya",
+      "rating": 3.6
+    },
+    {
+      "id": "8i06gqcc2dpkcowlqdz",
+      "name": "Gigitan Cepat",
+      "description": "Kamu suka makan cepet? disini ada lomba gigit makanan yang cepet cepetan lho, kalo kamu minat datang aja ke restoran gigitan cepat",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/45",
+      "city": "Aceh",
+      "rating": 4
+    }
+  ]
+}
