@@ -6,7 +6,7 @@ const createCard = (restaurant) => `<div class="card">
   <source class="lazyload" data-srcset="${API_ENDPOINT.RESTAURANT_IMAGE}${
   restaurant.pictureId
 }" alt="${restaurant.name} photo">
-  <img src="https://www.jqueryscript.net/images/loading-indicator-view.jpg">
+  <img src="./images/loading-small.jpg">
   </picture>
 </div>
 <div class="card-content">
