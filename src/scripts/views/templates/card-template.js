@@ -2,14 +2,11 @@ import API_ENDPOINT from '../../globals/api-endpoint';
 
 const createCard = (restaurant) => `<div class="card">
 <div class="card-image">
-
   <picture>
-  <source type="image/webp" srcset="${API_ENDPOINT.RESTAURANT_IMAGE}${
+  <source class="lazyload" data-srcset="${API_ENDPOINT.RESTAURANT_IMAGE}${
   restaurant.pictureId
-}">
-  <img src="${API_ENDPOINT.RESTAURANT_IMAGE}${restaurant.pictureId}" alt="${
-  restaurant.name
-} photo">
+}" alt="${restaurant.name} photo">
+  <img src="https://www.jqueryscript.net/images/loading-indicator-view.jpg">
   </picture>
 </div>
 <div class="card-content">

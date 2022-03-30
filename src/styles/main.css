@@ -549,7 +549,6 @@ a.card-title:focus {
   border-top: 1px solid #eee;
 }
 
-
 .copyright {
   font-size: 1.6rem;
   line-height: 1.6;
@@ -558,7 +557,6 @@ a.card-title:focus {
   text-align: center;
   padding: 1rem;
 }
-
 
 /* Review */
 .detail-restaurant__review-list {
